@@ -7,7 +7,7 @@ I'm a Computer Engineer Student.
 ## Socials
 
 <p align="left">
-<a href="[https://linkedin.com/in/nuttamon malakan](https://www.linkedin.com/in/nuttamon-malakan-384507271/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuttamon malakan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nuttamon-malakan-384507271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuttamon malakan" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Skills
